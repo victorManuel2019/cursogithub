@@ -5,3 +5,5 @@ Edad: 22.8 años
 Escolaridad: Universidad
 
 Localización: Estado de México, Ciudad de México
+Antecedentes penales: No Aplica
+Hijos: No Aplica
