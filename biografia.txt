@@ -7,3 +7,6 @@ Escolaridad: Universidad
 Localización: Estado de México, Ciudad de México
 Antecedentes penales: No Aplica
 Hijos: No Aplica
+
+Lenguajes: Españo (nativo) e Ingles (B1)
+Puesto a aplicar: Becario fornt-end
