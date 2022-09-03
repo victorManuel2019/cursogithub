@@ -12,7 +12,7 @@ body{
 }
 #post{
     font-size: 20px;
-    font-family: courier;
+    font-family: 'Times New Roman';
 }
 #cabecera{
     background-color: rgb(0, 25, 139);
