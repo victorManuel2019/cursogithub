@@ -10,6 +10,7 @@ body{
     border: 1px solid rgb(0, 0, 0);
     margin: 0 auto;
 }
-#containerh2{
+#post{
     font-size: 20px;
+    font-family: courier;
 }
