@@ -1,13 +1,15 @@
 body{
+    color: #333;
     text-align: center;
-
+    font-family: Arial;
 }
-
-h1{
-    font-family: "Arial black";
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 0 auto;
 }
-
-h5{
-    background-color: rgb(53, 53, 53);
-    color: rgb(0, 153, 255);
+#containerh2{
+    font-size: 20px;
 }
